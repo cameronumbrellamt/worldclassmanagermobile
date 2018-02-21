@@ -1,3 +1,17 @@
-.bar-header {
-background-color:#111030!important;
-}
+.bar-side-menu {
+   background-color: blue;
+ }
+ 
+ .bar-content {
+   background-color: blue;
+ }
+ 
+ .button.button-positive {
+   border-color: blue;
+   background-color: blue;
+    color: #fff;
+ } 
+ 
+ .item-divider {
+   background-color: #fafafa;
+ }
